@@ -1,0 +1,22 @@
+#elimperio{
+    background-color: red;
+}
+#losrebeldes{
+    background-color: blue;
+}
+#grande{
+    font-size: xx-large;
+}
+#luke {
+    font-style: italic;
+}
+#soldado{
+    border: rgb(170, 255, 67) 10px dashed;
+}
+#tropa{
+    letter-spacing: 3px;
+}
+#uapo{
+    text-align: center;
+    text-transform: uppercase;
+}
